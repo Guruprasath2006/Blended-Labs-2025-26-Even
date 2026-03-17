@@ -10,7 +10,7 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 
 ## Prerequisites
 - Basic understanding of cloud computing concepts  
-- AWS Academy Lab access  
+- AWS Academy Lab access   
 - Web browser with internet connectivity  
 
 
